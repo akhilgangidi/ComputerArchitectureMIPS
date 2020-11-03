@@ -1,6 +1,3 @@
-# Milan Patel	CS3340.005
-	.data
-	
 name:			.space 20
 string_space:		.space 1024
 numSpot: 		.byte '1', '2', '3', '4', '5', '6', '7', '8', '9'
